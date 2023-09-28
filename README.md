@@ -1,1 +1,1 @@
-# xswift
+This package provides some fluent assertion extension methods based on the XSwift exceptions and issues.

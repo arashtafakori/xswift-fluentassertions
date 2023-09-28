@@ -10,13 +10,13 @@
     <BaseIntermediateOutputPath />
     <PackageOutputPath>C:\NuGetPackages\artaware</PackageOutputPath>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.3.0.7</Version>
+    <Version>1.3.1.0</Version>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <Authors>Arash Tafakori</Authors>
     <Copyright>Copyright 2023 Arash Tafakori</Copyright>
     <RepositoryUrl>https://github.com/arashtafakori/fluentAssertions-XSwift</RepositoryUrl>
-    <Description>Provides some fluent assertion extension methods based on the XSwift cases.</Description>
+    <Description>Provides some fluent assertion extension methods based on the XSwift the XSwift exceptions and issues.</Description>
     <ApplicationIcon>icon.ico</ApplicationIcon>
   </PropertyGroup>
 
@@ -26,7 +26,7 @@
 
   <ItemGroup>
     <PackageReference Include="FluentAssertions" Version="6.5.1" />
-    <PackageReference Include="XSwift" Version="1.3.0.7" />
+    <PackageReference Include="XSwift" Version="1.3.1" />
   </ItemGroup>
 
   <ItemGroup>
