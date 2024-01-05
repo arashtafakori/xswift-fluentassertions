@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\FluentAssertions.Xswift.csproj" />
+    <ProjectReference Include="..\src\Xswift.FluentAssertions.csproj" />
   </ItemGroup>
 
 </Project>
